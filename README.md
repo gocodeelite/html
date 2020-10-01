@@ -12,8 +12,12 @@
 <p>Paragraph.</p>
 
 </body>
-</html>
 
 # tag
 body <body></body
   link a <href></>
+  
+# tag lagi
+menyisipkan script <sccript></script>
+  
+ 
